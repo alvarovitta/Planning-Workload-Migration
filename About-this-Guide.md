@@ -10,24 +10,24 @@ Your organization needs to determine what outcomes and value they will get from 
 <br />
 The content in this guide is appropriate for use by, but not strictly limited to, individuals with the following areas of responsibility:
 <br />
-- xxx
+- Business analysts
 
-- xxx
-- xxx
-- xxx
-- xxx
-- xxx
+- Application owners
+- Cloud Solution Architects
+- IT Operations
+- Business stakeholders
+- Business relationship managers
 <br />
 
 Use the following sections to plan your Azure Workload migrations:
 
-  - [Defining your Cloud Migration Strategy](add link): Use the guidance and procedures in this section to utilize the tools for defining your workload migration strategy and objectives.
+  - [Defining your Cloud Strategy](add link): Use the guidance and procedures in this section to utilize the tools for defining your cloud strategy and objectives.
 
-  - [Categorizing your Portfolio](add link):  Use the guidance and procedure in this section to categorize your workload migration portfolio. 
+  - [Categorizing your Portfolio](add link):  Use the guidance and procedure in this section to categorize your workloads according to capabilities. 
   
-  - [Building your Business Case](add link) Use the guidance and procedures in this section to build your workload migration business case.
+  - [Building your Business Case](add link) Use the guidance and procedures in this section to build your cloud migration business case.
   
-  - [Defining your Program of Change](add link) Use the guidance and procedures in this section to use the tools to develop your workload migration Program of Change and Program Management.
+  - [Defining your Program of Change](add link) Use the guidance and procedures in this section to use the tools to develop your workload migration Program of Change.
   
   - [Managing your Program](add link) Use the guidance and procedures in this section to use the tools to mange your Workload Migration Program.
 <br />
@@ -35,4 +35,4 @@ Use the following sections to plan your Azure Workload migrations:
 
 ## Next steps
 
-[Defining your Cloud Migration Strategy](add link)
+[Defining your Cloud Strategy](add link)
