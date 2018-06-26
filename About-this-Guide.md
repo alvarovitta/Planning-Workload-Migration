@@ -25,14 +25,14 @@ Use the following sections to plan your Azure Workload migrations:
 
   - [Categorizing your Portfolio](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/2.0-Categorizing-your-Portfolio.md):  Use the guidance and procedure in this section to categorize your workloads according to capabilities. 
   
-  - [Building your Business Case](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/3.0-Building-your-Business-Case.md) Use the guidance and procedures in this section to build your cloud migration business case.
+  - [Building your Business Case](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/3.0-Building-your-Business-Case.md):  Use the guidance and procedures in this section to build your cloud migration business case.
   
-  - [Defining your Program of Change](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/4.0-Defining-your-Program-of-Change.md) Use the guidance and procedures in this section to use the tools to develop your workload migration Program of Change.
+  - [Defining your Program of Change](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/4.0-Defining-your-Program-of-Change.md):  Use the guidance and procedures in this section to use the tools to develop your workload migration Program of Change.
   
-  - [Managing your Program](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/5.0-Managing-your-Program.md) Use the guidance and procedures in this section to use the tools to mange your Workload Migration Program.
+  - [Managing your Program](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/5.0-Managing-your-Program.md):  Use the guidance and procedures in this section to use the tools to mange your Workload Migration Program.
 <br />
 <br />
 
 ## Next steps
 
-[Defining your Cloud Strategy](add link)
+[Defining your Cloud Strategy](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/1.0-Defining-your-Cloud-Strategy.md)
